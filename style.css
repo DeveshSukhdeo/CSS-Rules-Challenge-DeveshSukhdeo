@@ -1,0 +1,35 @@
+/*Modified the images to have a height and width of 200 pixels instead of 150.*/
+img {
+  width: 200px;
+  height: 200px;
+}
+
+/*I styled the body to have a background color of pink and for the text align to be center*/
+body{
+  background-color: pink;
+  text-align: center;
+}
+/*I styled the h1 tag to have a font size of 35 pixels, for the color to be red, and for the font family to be lucida handwriting.*/
+h1{
+  font-size: 35px;
+  color: red;
+  font-family: 'lucida handwriting';
+  
+}
+/*I styled the h2 tag to have a color of red and for the font family to be lucida handwriting.*/
+h2{
+  color: red;
+  font-family: 'lucida handwriting';
+}
+/*I styled the h3 tag to have a color of red, a font size of 25 pixels and a font family of lucida handwriting.*/
+h3{
+  color: red;
+  font-size: 25px;
+  font-family: 'lucida handwriting';
+}
+/*I styled the paragraph and h5 tags to have a color of dark green, a font size of 18 pixles and a font family of trebuchet*/
+p, h5{
+  color: darkgreen;
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
